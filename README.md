@@ -1,3 +1,8 @@
+# demo
+https://sveltekit-vercel-iota.vercel.app/
+
+The reason i did this was to test if the development flicker would appear in production, and its clean it doesn't.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
